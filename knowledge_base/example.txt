@@ -1,0 +1,8 @@
+Replace this file with your real documents (.txt, .md, or .pdf files, one topic per file works best).
+
+Example entry:
+
+Q: What are your office hours?
+A: We are open Monday to Friday, 9am to 5pm, East Africa Time.
+
+Delete this file once you've added your own knowledge base content.
